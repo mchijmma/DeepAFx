@@ -3,7 +3,7 @@
 
 [Accompanying  website](https://mchijmma.github.io/DeepAFx/) for the [paper](https://www.link.to.paper):
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Martínez Ramírez M. A.](http://m-marco.com), [Wang, O.](http://www.oliverwang.info/), [Smaragdis, P.](https://paris.cs.illinois.edu/) and [Bryan N. D.](https://ccrma.stanford.edu/~njb/), “ICASSP 2021 Paper Submission: 2096” submitted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, June 2021.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Martínez Ramírez M. A.](http://m-marco.com), [Wang, O.](http://www.oliverwang.info/), [Smaragdis, P.](https://paris.cs.illinois.edu/) and [Bryan N. J.](https://ccrma.stanford.edu/~njb/), “ICASSP 2021 Paper Submission: 2096” submitted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Canada, June 2021.
 
 [View the source code.](https://link.to.code)
 
