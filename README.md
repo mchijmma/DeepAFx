@@ -8,7 +8,7 @@
 [View the source code.](https://link.to.code)
 
 
-Audio samples from the listening tddest:
+Audio samples from the listening test:
 
 ### Tube amplifier emulation
 <div id="contentBox" style="margin:0px auto; width:385%">
@@ -185,6 +185,146 @@ Audio samples from the listening tddest:
 </div>
 &nbsp;
 
+### Automatic non-speech sound removal
+<div id="contentBox" style="margin:0px auto; width:385%">
+<div id="column1" style="float:left; margin:0; width:15.75%;">
+- Low-anchor <br />
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_0_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_1_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_2_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_3_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_4_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_5_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_6_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_7_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_8_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_9_x.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column2" style="float:left; margin:0;width:15.75%;">
+- Mid-anchor <br />
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_0_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_1_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_2_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_3_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_4_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_5_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_6_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_7_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_8_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_9_x_mid.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column3" style="float:left; margin:0;width:15.75%">
+- High-anchor <br />
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_0_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_1_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_2_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_3_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_4_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_5_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_6_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_7_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_8_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_9_y.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column4" style="float:left; margin:0;width:15.75%">
+- DeepAFx <br />
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_0_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_1_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_2_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_3_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_4_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_5_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_6_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_7_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_8_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/nonspeech/full_model_57_9_z.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+</div>
+&nbsp;
 
 
 Please use Mozilla Firefox or Google Chrome.
