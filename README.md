@@ -8,10 +8,10 @@
 [View the source code.](https://link.to.code)
 
 
-Audio samples from the listening tgest:
+Audio samples from the listening tddest:
 
 ### Tube amplifier emulation
-<div id="contentBox" style="margin:0px auto; width:250%">
+<div id="contentBox" style="margin:0px auto; width:385%">
 <div id="column1" style="float:left; margin:0; width:15.75%;">
 - Low-anchor <br />
 <audio controls="controls">
