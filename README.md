@@ -149,7 +149,7 @@ Audio samples from the listening test:
 </div>
 
 <div id="column5" style="float:left; margin:0;width:15.75%;">
-- [CAFx](https://www.mdpi.com/2076-3417/10/2/638)CAFx <br />
+- <a href="https://www.mdpi.com/2076-3417/10/2/638">CAFx</a><br />
 <audio controls="controls">
     <source src="audio/distortion/CAFx_101.mp3" type="audio/mp3" />
 </audio>
