@@ -1,4 +1,4 @@
-# DeepAFX: Deep Audio Effects 
+# [DeepAFX: Deep Audio Effects](https://mchijmma.github.io/DeepAFx/)
 
 Audio signal processing effects (FX) are used to manipulate sound characteristics across a variety of media. Many FX, however, can be difficult or tedious to use, particularly for novice users. In our work, we aim to simplify how audio FX are used by training a machine to use FX directly and perform automatic audio production tasks. For a quick demonstration, please see our demo video:
 
@@ -16,10 +16,12 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASS
 
 # Code
 
-[View the source code.](https://github.com/adobe-research/DeepAFx)
+All code and models are available [here](https://github.com/adobe-research/DeepAFx).
 
 
 # Listening Test Examples
+
+For a complete collection of listening test results, please see below.
 
 ### Tube amplifier emulation
 <div id="contentBox" style="margin:0px auto; width:385%">
