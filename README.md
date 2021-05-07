@@ -2,7 +2,7 @@
 
 Audio signal processing effects (FX) are used to manipulate sound characteristics across a variety of media. Many FX, however, can be difficult or tedious to use, particularly for novice users. In our work, we aim to simplify how audio FX are used by training a machine to use FX directly and perform automatic audio production tasks. For a quick demonstration, please see our demo video:
 
-[![Demo Video](images/video.png)](https://youtu.be/6ujkPwcQKo4)
+[![Demo Video](https://github.com/adobe-research/DeepAFx/blob/main/images/video.png?raw=true)](https://youtu.be/6ujkPwcQKo4)
 
 <!--Our goal is to make the process of audio effects control easier and more powerful for audio content creators. To address this, we are investigating how to use deep neural networks/AI to control audio plugins (e.g. VST, AU, LV2 effects) or black-box audio effects, which themselves are used to perform audio processing. By using familiar and existing tools for processing and suggesting control parameters, we can create a unique paradigm that blends the power of AI with human creative control to empower creators.-->
 
@@ -14,10 +14,12 @@ To combine deep learning and audio plugins together, we have developed a new met
 [Marco A. Martínez Ramírez](https://m-marco.com/about/), [Oliver Wang](http://www.oliverwang.info/), [Paris Smaragdis](https://paris.cs.illinois.edu/), and [Nicholas J. Bryan](https://ccrma.stanford.edu/~njb/). 
 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021.
 
+# Code
+
 [View the source code.](https://github.com/adobe-research/DeepAFx)
 
 
-Audio samples from the listening test:
+# Listening Test Examples
 
 ### Tube amplifier emulation
 <div id="contentBox" style="margin:0px auto; width:385%">
