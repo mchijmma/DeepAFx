@@ -20,7 +20,9 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASS
 >   publisher={IEEE}<br />
 >}<br />
 
+# ICASSP Presentation Materials
 
+The video is avaliable [here](https://www.youtube.com/watch?v=8pBDRxNOLU4) and the poster is available [here](https://marquetem.files.wordpress.com/2021/05/icassp_poster_submission.pdf)
 
 # Code
 
