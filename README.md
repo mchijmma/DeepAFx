@@ -4,7 +4,11 @@ Audio signal processing effects (FX) are used to manipulate sound characteristic
 
 [![Demo Video](https://github.com/adobe-research/DeepAFx/blob/main/images/video.png?raw=true)](https://youtu.be/6ujkPwcQKo4)
 
-To combine deep learning and audio plugins together, we have developed a new method to incorporate third-party, audio signal processing effects (FX) plugins as layers within deep neural networks. We then use a deep encoder to analyze sounds and learn to control audio FX that themselves performs signal manipulation. To train our network with non-differentiable FX layers, we compute FX layer gradients via a fast, parallel stochastic approximation scheme within a standard automatic differentiation graph, enabling efficient end-to-end backpropagation for deep learning training. For technical details of the work, please see:
+To combine deep learning and audio plugins together, we have developed a new method to incorporate third-party, audio signal processing effects (FX) plugins as layers within deep neural networks. We then use a deep encoder to analyze sounds and learn to control audio FX that themselves performs signal manipulation. To train our network with non-differentiable FX layers, we compute FX layer gradients via a fast, parallel stochastic approximation scheme within a standard automatic differentiation graph, enabling efficient end-to-end backpropagation for deep learning training. 
+
+# Paper
+
+For technical details of the work, please see:
 
 
 "[Differentiable Signal Processing with Black-Box Audio Effects.](https://mchijmma.github.io/DeepAFx/)"
@@ -20,13 +24,19 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASS
 >   publisher={IEEE}<br />
 >}<br />
 
+
+**ArXiv Paper**: https://arxiv.org/abs/2105.04752
+
+
+# Code
+
+All code and models are available at [https://github.com/adobe-research/DeepAFx](https://github.com/adobe-research/DeepAFx).
+
 # ICASSP Presentation Materials
 
 The video is avaliable [here](https://www.youtube.com/watch?v=8pBDRxNOLU4) and the poster is available [here](https://marquetem.files.wordpress.com/2021/05/icassp_poster_submission.pdf).
 
-# Code
 
-All code and models are available [here](https://github.com/adobe-research/DeepAFx).
 
 # Listening Test Examples
 
