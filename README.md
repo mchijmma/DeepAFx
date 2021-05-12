@@ -5,8 +5,9 @@ Audio signal processing effects (FX) are used to manipulate sound characteristic
 <!---
 [![Demo Video](https://github.com/adobe-research/DeepAFx/blob/main/images/video.png?raw=true)](https://youtu.be/6ujkPwcQKo4)
 -->
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ujkPwcQKo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</p>
 
 To combine deep learning and audio plugins together, we have developed a new method to incorporate third-party, audio signal processing effects (FX) plugins as layers within deep neural networks. We then use a deep encoder to analyze sounds and learn to control audio FX that themselves performs signal manipulation. To train our network with non-differentiable FX layers, we compute FX layer gradients via a fast, parallel stochastic approximation scheme within a standard automatic differentiation graph, enabling efficient end-to-end backpropagation for deep learning training. 
 
