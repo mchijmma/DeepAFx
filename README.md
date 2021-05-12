@@ -29,9 +29,9 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASS
 >   publisher={IEEE}<br />
 >}<br />
 
-
-[<img src="assets/arXiv_screenshot.png">](https://arxiv.org/abs/2105.04752)
-
+<p align="center">
+[<img src="assets/arXiv_screenshot.png" width="315" height="560">](https://arxiv.org/abs/2105.04752)
+</p>
 
 
 # Code
