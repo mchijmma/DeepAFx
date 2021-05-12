@@ -8,7 +8,7 @@ To combine deep learning and audio plugins together, we have developed a new met
 
 # Paper
 
-For technical details of the work, please see our **ArXiv Paper**: [https://arxiv.org/abs/2105.04752](https://arxiv.org/abs/2105.04752):
+For technical details of the work, please see our **ArXiv Paper**: [https://arxiv.org/abs/2105.04752](https://arxiv.org/abs/2105.04752).
 
 
 "[Differentiable Signal Processing with Black-Box Audio Effects.](https://mchijmma.github.io/DeepAFx/)"
